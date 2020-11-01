@@ -1,0 +1,15 @@
+{
+  "name": "mbdemo",
+  "version": "1.0.0",
+  "description": "MounteBank Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mountebank": "^2.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}
